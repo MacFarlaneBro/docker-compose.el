@@ -1,4 +1,4 @@
-* Docker-compose
+* compose.el
 ** Compose-mode integration
 ** Major mode for editing docker-compose files
 ** Show all networks
