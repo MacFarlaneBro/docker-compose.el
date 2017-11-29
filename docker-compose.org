@@ -1,3 +1,5 @@
 * Docker-compose
 ** Compose-mode integrations
 ** Major mode for editing docker-compose files
+** Show all networks
+** show all containers within those networks
