@@ -3,3 +3,4 @@
 ** Major mode for editing docker-compose files
 ** Show all networks
 ** show all containers within those networks
+** Magit style interface for docker viewing commands
