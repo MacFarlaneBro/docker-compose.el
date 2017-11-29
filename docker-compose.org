@@ -1,1 +1,4 @@
 * Docker-compose
+** Compose-mode integrations
+** Major mode for editing docker-compose files
+** 
