@@ -4,4 +4,4 @@
     CLOSED: [2017-12-02 Sat 12:22]
 *** Otherwise ask the user to specify the DC file.
 ** Specify 'docker-compose-home' path
-** Specify 'docker-compose-name' for teh compose group
+** Specify 'docker-compose-name' for the compose group
