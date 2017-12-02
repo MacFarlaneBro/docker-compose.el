@@ -1,1 +1,5 @@
 * Docker-compose
+** Detect the location of the docker-compose file in the current project
+*** Maybe use projectile for this?
+*** Otherwise maybe VC?
+*** Otherwise ask the user to specify the DC file
