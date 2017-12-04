@@ -4,3 +4,10 @@
 ** Show all networks
 ** show all containers within those networks
 ** Magit style interface for docker viewing commands
+* Docker-compose
+** Detect the location of the docker-compose file in the current project
+*** DONE I decided to use the 'locate' command for this
+    CLOSED: [2017-12-02 Sat 12:22]
+*** Otherwise ask the user to specify the DC file.
+** Specify 'docker-compose-home' path
+** Specify 'docker-compose-name' for the compose group
